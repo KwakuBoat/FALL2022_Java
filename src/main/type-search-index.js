@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"gideon_boateng.gideon_boateng","l":"ClassesRevisited"},{"p":"gideon_boateng.gideon_boateng","l":"main"}];updateSearchResults();
